@@ -1,3 +1,4 @@
+* clean working area
 * chop avocados
 * chop onion
 * squeeze lime
